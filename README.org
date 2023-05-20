@@ -1,0 +1,9 @@
+* papyrus
+
+A Literate Programming Tool
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/tani/papyrus.git |
+| commit  | 2bd169a                                 |
+| systems | papyrus                                 |
+|---------+-----------------------------------------|
