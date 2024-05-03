@@ -4,6 +4,6 @@ A Literate Programming Tool
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/tani/papyrus.git |
-| commit  | 1bdd5e6                                 |
+| commit  | 12d0483                                 |
 | systems | papyrus                                 |
 |---------+-----------------------------------------|
